@@ -5,3 +5,11 @@ p {
   text-align: center;
   padding: 10px;
 }
+//dev2 code is added
+.box {
+  width: 300px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
